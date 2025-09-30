@@ -88,6 +88,17 @@ Por lo tanto, propongo el siguiente marco de estudio agregando el perfil esperad
     3. Redes de Computadoras.
 
 
+## JUSTIFICACIÓN 🥺
+Este temario se justifica mediante los criterios de evaluación para perfiles sobresalientes y satisfactorios.
 
+### ALGORITMIA 🎈
+![alt text](/Images/AlgoritmiaCriterio.png)
 
-    
+### SOFTWARE DE BASE ⚔️
+![alt text](/Images/SoftwareBaseCriterio.png)
+
+### SOFTWARE DE APLICACIÓN 🐿️
+![alt text](/Images/SWAPPCriterio.png)
+
+### CÓMPUTO INTELIGENTE
+![alt text](/Images/ComputoInteligenteCriterio.png)
